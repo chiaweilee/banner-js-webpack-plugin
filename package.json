@@ -1,0 +1,20 @@
+{
+  "name": "banner-js-webpack-plugin",
+  "version": "0.0.0-beta.0",
+  "description": "append content before webpack entry bundle",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/banner-js-webpack-plugin.git"
+  },
+  "author": "+v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/banner-js-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/banner-js-webpack-plugin#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}
