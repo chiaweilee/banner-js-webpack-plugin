@@ -11,7 +11,7 @@ append content before webpack entry bundle
 npm install banner-js-webpack-plugin
 ```
 
-## Pre
+## Usage
 
 ```JavaScript
 // webpack.config.js
