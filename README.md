@@ -2,6 +2,7 @@
 append content before webpack entry bundle
 
 *inject your JS code before entry of webpack*
+
 *base on webpack banner-plugin*
 
 ## Install
