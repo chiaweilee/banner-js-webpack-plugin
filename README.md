@@ -27,6 +27,14 @@ plugins: [
 ]
 ```
 
+⚠️ the code you will auto-run like this:
+
+```JavaScript
+(function () {
+    // your code
+})()
+```
+
 also,
 
 ```JavaScript
