@@ -46,7 +46,7 @@ plugins: [
 
 ## Example
 
-```
+```JavaScript
 // webpack.config plugins
 new BannerJSPlugin(function () {
     var random = Math.random()
@@ -55,7 +55,7 @@ new BannerJSPlugin(function () {
   })
 ```
 
-```
+```JavaScript
 // dist/chunk-vendors.js
 (function(){var t=Math.random();t+=1})(),(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-vendors"], // ...
 ```
